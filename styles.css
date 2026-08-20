@@ -49,6 +49,7 @@ header button:hover {
 main {
     display: flex;
     width: 100vw;
+    align-items: center;
 }
 
 img {
