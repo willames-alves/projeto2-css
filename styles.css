@@ -5,10 +5,16 @@
     font-family: 'Poppins', sans-serif;
 }
 
+body {
+    display: flex;
+    flex-direction: column;
+    /* width: 98vw; */
+}
+
 header {
     padding-top: 47px;
     padding-left: 42px;
-    margin-bottom: 160px;
+    margin-bottom: 120px;
 }
 
 a {
@@ -48,7 +54,7 @@ header button:hover {
 
 main {
     display: flex;
-    width: 100vw;
+    /* width: 100vw; */
     align-items: center;
 }
 
